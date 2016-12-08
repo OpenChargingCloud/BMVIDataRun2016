@@ -1,0 +1,5442 @@
+{
+  "type": "FeatureCollection",
+  "properties": {},
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00001",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.4944313+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.502Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.534Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "ggü. 1",
+          "street": "Konstantin-Wille-Straße",
+          "postalCode": "51105",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00001001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.625Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.625Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00001002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.704Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.704Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.991864,
+          50.923715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00004",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7054305+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.705Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.705Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "2",
+          "street": "Kalkofenstraße",
+          "postalCode": "53340",
+          "city": {
+            "de": "Meckenheim"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00004002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.705Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.705Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00004001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.705Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.705Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.011032,
+          50.627538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00006",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7054305+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.705Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.705Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "street": "Kennedystraße",
+          "postalCode": "51147",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00006001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.705Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.705Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.119269,
+          50.879826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00007",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7054305+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.705Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.705Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "street": "Kennedystraße",
+          "postalCode": "51147",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00007002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00007001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.119269,
+          50.879826
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00010",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7064301+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.706Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.706Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1420",
+          "street": "Aachener Straße",
+          "postalCode": "50859",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00010002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00010001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.815948,
+          50.93951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00011",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7064301+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.706Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.706Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1420",
+          "street": "Aachener Straße",
+          "postalCode": "50859",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00011002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00011001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.815948,
+          50.93951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00012",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7064301+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.706Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.706Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1420",
+          "street": "Aachener Straße",
+          "postalCode": "50859",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00012002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00012001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.706Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.815948,
+          50.93951
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00013",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7074303+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "5",
+          "street": "Ernst-Heinrich-Geist Str.",
+          "postalCode": "50226",
+          "city": {
+            "de": "Frechen"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00013002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00013001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.820286,
+          50.907732
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00015",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7074303+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "4",
+          "street": "Edmund-Rumpler-Str.",
+          "postalCode": "51149",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00015002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00015001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.053356,
+          50.913146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00016",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7074303+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "4",
+          "street": "Edmund-Rumpler-Str.",
+          "postalCode": "51149",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00016002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00016001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.053356,
+          50.913146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00017",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7074303+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.707Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "9-11",
+          "street": "Richmodstraße",
+          "postalCode": "50667",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00017002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.707Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00017001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.947557,
+          50.937187
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00018",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7084305+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.708Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.708Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "15",
+          "street": "Fröbelstraße",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00018002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00018001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.915828,
+          50.944814
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00020",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7084305+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.708Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.708Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "242",
+          "street": "Neusser Str.",
+          "postalCode": "50733",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00020002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00020001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.955304,
+          50.963081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00055",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7084305+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.708Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.708Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "7",
+          "street": "Ottostraße",
+          "postalCode": "50859",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00055002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00055001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.708Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.840067,
+          50.949679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00026",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7094298+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.709Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.709Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "4",
+          "street": "Dollendorfer Str.",
+          "postalCode": "53639",
+          "city": {
+            "de": "Königswinter"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00026002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00026001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.276724,
+          50.710012
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00027",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7094298+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.709Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.709Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Picassoplatz",
+          "postalCode": "50679",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00027002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00027001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.973142,
+          50.943511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00028",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7094298+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.709Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.709Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Picassoplatz",
+          "postalCode": "50679",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00028002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00028001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.709Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.973142,
+          50.943511
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00029",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7104309+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.710Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.710Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "2-4",
+          "street": "Butzweilerhof-Allee",
+          "postalCode": "50829",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00029002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00029001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.888776,
+          50.984414
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00031",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7104309+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.710Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.710Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "31",
+          "street": "Raderberggürtel",
+          "postalCode": "50968",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00031002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00031001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.710Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.961275,
+          50.903902
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00034",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7114308+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.711Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.711Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Karlheinz-Stockhausen-Platz",
+          "postalCode": "51515",
+          "city": {
+            "de": "Kürten"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00034002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.711Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.711Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00034001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.711Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.711Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.266546,
+          51.052046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00039",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7114308+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.711Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.711Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00039002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.711Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.711Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00039001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00040",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7124297+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.712Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.712Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00040002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00040001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00041",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7124297+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.712Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.712Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00041002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00041001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00042",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7124297+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.712Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.712Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00042002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.712Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00042001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00043",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.713429+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.713Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.713Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00043002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00043001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00045",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.713429+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.713Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.713Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00045002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00045001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00037",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.713429+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.713Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.713Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00037002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00037001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.713Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00038",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7144277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.714Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.714Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00038002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.714Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.714Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00038001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.714Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.714Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00044",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7144277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.714Z",
+          "Status": "Unspecified"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.714Z",
+          "Status": "OutOfService"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Parkgürtel",
+          "postalCode": "50823",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00044002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00044001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.931016,
+          50.960907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00054",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7184276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.718Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.718Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "neben 13",
+          "street": "Kölner Straße",
+          "postalCode": "51789",
+          "city": {
+            "de": "Lindlar"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00054002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00054001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.374261,
+          51.01824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00081",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7184276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.718Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.718Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "10-20",
+          "street": "Colonia-Allee",
+          "postalCode": "51067",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00081002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.718Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00081001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.051716,
+          50.963563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00066",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7194287+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.719Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.719Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "10-20",
+          "street": "Colonia-Allee",
+          "postalCode": "51067",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00066002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00066001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.051716,
+          50.963563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00065",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7194287+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.719Z",
+          "Status": "Unspecified"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.719Z",
+          "Status": "OutOfService"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "10-20",
+          "street": "Colonia-Allee",
+          "postalCode": "51067",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00065002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00065001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.719Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.051716,
+          50.963563
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00050",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7194287+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.720Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.720Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "street": "Frouardplatz",
+          "postalCode": "53797",
+          "city": {
+            "de": "Lohmar"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00050002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00050001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.211454,
+          50.841507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00085",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7204289+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.720Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.720Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "115",
+          "street": "Hansestraße",
+          "postalCode": "51149",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00085002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00085001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.720Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.056672,
+          50.91278
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00087",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7214279+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.721Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.721Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "21",
+          "street": "Grantham-Allee",
+          "postalCode": "53757",
+          "city": {
+            "de": "Sankt Augustin"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00087001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00087002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.181395,
+          50.778507
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00008",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7214279+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.721Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.721Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "ggü. 40",
+          "street": "Lungengasse",
+          "postalCode": "50676",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00008002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00008001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.721Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.946149,
+          50.934986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00058",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7224278+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.722Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.722Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "15",
+          "street": "Universitätsstraße",
+          "postalCode": "45141",
+          "city": {
+            "de": "Essen"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00058001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.722Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.722Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00058002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.722Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.722Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.006304,
+          51.462824
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00088",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7224278+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.722Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.722Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "15",
+          "street": "Donnerbachweg",
+          "postalCode": "53332",
+          "city": {
+            "de": "Bornheim"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00088002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.722Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.722Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.948761,
+          50.76773
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00032",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7234277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.723Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.723Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "53",
+          "street": "Lotharstraße",
+          "postalCode": "47057",
+          "city": {
+            "de": "Duisburg"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00032002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.723Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.723Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00032001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.723Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.723Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.799609,
+          51.430348
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00014",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7234277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.723Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.723Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Einsteinstraße",
+          "postalCode": "53757",
+          "city": {
+            "de": "Sankt Augustin"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00014002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.723Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.723Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.184106,
+          50.787069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00199",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7234277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.723Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.723Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "460-474",
+          "street": "Neusser Str.",
+          "postalCode": "50733",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00199002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00199001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.951849,
+          50.97378
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE30001",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7244276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.724Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.724Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Krewelshof",
+          "postalCode": "53797",
+          "city": {
+            "de": "Lohmar"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE30001004",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE30001003",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE30001002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE30001001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.724Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197917,
+          50.87327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00089",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7254275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.725Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.725Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Krewelshof",
+          "postalCode": "53797",
+          "city": {
+            "de": "Lohmar"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00089001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00089002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.197917,
+          50.87327
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00052",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7264274+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.726Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.726Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "2",
+          "street": "Rathausstraße",
+          "postalCode": "53332",
+          "city": {
+            "de": "Bornheim"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00052002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00052001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.004436,
+          50.757272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00080",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7264274+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.726Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.726Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "3",
+          "street": "Severinusstraße",
+          "postalCode": "50354",
+          "city": {
+            "de": "Hürth"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00080002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00080001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.887646,
+          50.877908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE70066",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7264274+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.726Z",
+          "Status": "Unspecified"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.726Z",
+          "Status": "OutOfService"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "3",
+          "street": "Severinusstraße",
+          "postalCode": "50354",
+          "city": {
+            "de": "Hürth"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE70066002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.726Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE70066001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.887646,
+          50.877908
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00003",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7274294+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "40",
+          "street": "Wilhelm-Mauser-Straße",
+          "postalCode": "50827",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00003002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00003001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.891325,
+          50.956398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE70012",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7274294+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "Unspecified"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "OutOfService"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "40",
+          "street": "Wilhelm-Mauser-Straße",
+          "postalCode": "50827",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE70012002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE70012001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.891325,
+          50.956398
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00047",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7274294+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "76-80",
+          "street": "Johannisstraße",
+          "postalCode": "50668",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00047002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00047001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.727Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.96153,
+          50.944661
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00067",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7274294+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.727Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Messeplatz",
+          "postalCode": "50679",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00067002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00067001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.985502,
+          50.948069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00051",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7284281+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.728Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.728Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Borromäusstraße",
+          "postalCode": "51789",
+          "city": {
+            "de": "Lindlar"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00051002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.382112,
+          51.021294
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00057",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7284281+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.728Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.728Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "131",
+          "street": "Hermann-Löns-Straße",
+          "postalCode": "51469",
+          "city": {
+            "de": "Bergisch Gladbach"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00057002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00057001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.113263,
+          50.988624
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00091",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7284281+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.728Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.728Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "38",
+          "street": "Scheidtweilerstraße",
+          "postalCode": "50933",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00091002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00091001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.728Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.906852,
+          50.938688
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00025",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7294277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "5",
+          "street": "Erna-Scheffler-Straße",
+          "postalCode": "50679",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00025002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00025001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.992267,
+          50.940991
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00090",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7294277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "8",
+          "street": "Köhlstraße",
+          "postalCode": "50827",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00090002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00090001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.897439,
+          50.975525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00021",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7294277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "19-21",
+          "street": "Theodor-Heuss-Ring",
+          "postalCode": "50668",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00021002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00021001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.729Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.964331,
+          50.951163
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00097",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7294277+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.729Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "21",
+          "street": "Propsteistraße",
+          "postalCode": "51491",
+          "city": {
+            "de": "Overath"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00097001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.283992,
+          50.930353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00082",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7304276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.730Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.730Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "7",
+          "street": "Am Rübezahlwald",
+          "postalCode": "51469",
+          "city": {
+            "de": "Bergisch Gladbach"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00082002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00082001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.143299,
+          50.97695
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50006",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7304276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.730Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.730Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Anna-Schneider-Steig (Laura-Oelbermann-Promenade)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50006001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.730Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.967102,
+          50.925614
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50011",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7314275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.731Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.731Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "hinter 1",
+          "street": "Im Zollhafen (Auf der Hansewerft)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50011001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.731Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.731Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.965153,
+          50.93057
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50004",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7314275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.731Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.731Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "neben 2",
+          "street": "Elisabeth-Treskow-Platz",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50004001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.731Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.731Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.968329,
+          50.922767
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50003",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7314275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.731Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.731Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "hinter 8",
+          "street": "Agrippinawerft (Katharina-Schauberg-Promenade)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50003001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.731Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.731Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.968619,
+          50.922128
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50002",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.732428+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "hinter 22",
+          "street": "Agrippinawerft (Katharina-Schauberg-Promenade)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50002001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.969376,
+          50.920538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00083",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.732428+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Zum Komarhof",
+          "postalCode": "50354",
+          "city": {
+            "de": "Hürth"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00083002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00083001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.903977,
+          50.895018
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00103",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.732428+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "232-238",
+          "street": "Siegburgerstraße",
+          "postalCode": "51105",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00103003",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.984919,
+          50.92041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00104",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.732428+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "232-238",
+          "street": "Siegburgerstraße",
+          "postalCode": "51105",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00104003",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.984919,
+          50.92041
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00098",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.732428+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.732Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "2",
+          "street": "Ottoplatz",
+          "postalCode": "50679",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00098002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.732Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00098001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.974059,
+          50.939649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50010",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7334276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "12",
+          "street": "Im Zollhafen (Auf der Hansawerft)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50010001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.965722,
+          50.929066
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50009",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7334276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "12",
+          "street": "Im Zollhafen (Auf der Hansawerft)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50009001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.965899,
+          50.928654
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50008",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7334276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "hinter 15",
+          "street": "Im Zollhafen (Auf der Hansawerft)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50008001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.966489,
+          50.927058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50007",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7334276+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.733Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "24",
+          "street": "Im Zollhafen (auf der Hansawerft)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50007001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.733Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.966967,
+          50.925871
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50005",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7344275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "13",
+          "street": "Anna-Schneider-Steig (Laura-Oelbermann-Promenade)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50005001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.967857,
+          50.923876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00061",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7344275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "10",
+          "street": "Europaplatz",
+          "postalCode": "52068",
+          "city": {
+            "de": "Aachen"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00061002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00061001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.106563,
+          50.779498
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00046",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7344275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "38",
+          "street": "Scheidtweilerstraße",
+          "postalCode": "50933",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00046002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00046001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.734Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.90728,
+          50.937905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00068",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7344275+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.734Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "1",
+          "street": "Schlossallee",
+          "postalCode": "53913",
+          "city": {
+            "de": "Swisttal"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00068002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.915035,
+          50.668921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE50001",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7354271+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.735Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.735Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "hinter 26",
+          "street": "Agrippinawerft (Katharina-Schauberg-Promenade)",
+          "postalCode": "50678",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE50001001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.969681,
+          50.919899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Id": "DEREK*SDEREKE00048",
+        "Name": {},
+        "Description": {},
+        "LastChange": "2016-12-02T01:50:22.7354271+01:00",
+        "AdminStatus": {
+          "Timestamp": "2016-12-02T00:50:22.735Z",
+          "Status": "Operational"
+        },
+        "Status": {
+          "Timestamp": "2016-12-02T00:50:22.735Z",
+          "Status": "Available"
+        },
+        "Brand": {},
+        "Address": {
+          "houseNumber": "10",
+          "street": "Oskar-Schindler-Straße",
+          "postalCode": "50769",
+          "city": {
+            "de": "Köln"
+          },
+          "country": {
+            "en": "Germany",
+            "de": "Deutschland"
+          }
+        },
+        "OpeningTimes": {},
+        "Accessibility": "Unspecified",
+        "AuthenticationModes": [],
+        "PaymentOptions": [],
+        "EVSEs": [
+          {
+            "Id": "DEREKEDEREKE00048002",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          },
+          {
+            "Id": "DEREKEDEREKE00048001",
+            "AdminStatus": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "Status": {
+              "Timestamp": "2016-12-02T00:50:22.735Z",
+              "Status": "OutOfService"
+            },
+            "AverageVoltage": "0",
+            "MaxCurrent": "0",
+            "MaxPower": "",
+            "ChargingModes": []
+          }
+        ]
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.918907,
+          51.033628
+        ]
+      }
+    }
+  ]
+}
